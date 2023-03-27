@@ -14,7 +14,7 @@ public class App
 	}
 	
 	public void addmethod2() {
-		System.out.println("this is used for second  git commit");
+		System.out.println("this is used for second  git commit"+ConstantDemo.CONSTAT);
 		
 	}
     public static void main( String[] args )
